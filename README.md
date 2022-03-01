@@ -1,0 +1,2 @@
+# faraz
+my first repositry
